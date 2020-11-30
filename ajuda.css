@@ -1,0 +1,179 @@
+/*body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+
+    max-width: 100%;
+    height: auto;
+
+    background: rgb(213, 243, 212)
+
+}
+
+main{
+    margin: 0 auto;
+    width: 100%;
+    float:left;
+    position:relative;
+ 
+}
+
+
+
+
+.comecoAjuda{
+    background-color: rgb(213, 243, 212);
+    width:101%;
+    height:5;
+   
+    text-align:1;
+   
+    margin: 0auto;
+    
+ 
+ 
+ }
+
+.header41 img{
+    padding-left: 5pt;
+    height:55px;
+    width: 10%;
+   
+    
+
+
+}
+
+.menuAjuda ul li{
+    display: inline-block;
+    margin-left: 120px;
+}
+
+.menuAjuda ul li a{
+   
+    color: rgb(234, 245, 233);
+    text-decoration: none;
+    font-size: 18px;
+    text-shadow: #090a09 5px 5px 2px ;
+    
+}*/
+
+
+.ajuda-pagina h1 {
+
+    text-align:center;
+    
+    color: azure;
+    margin: 0 auto;
+    margin-bottom: 5;
+    font-size: 30pt;
+    text-shadow: #131a0f 5px 5px 3px ;
+  
+  
+}
+
+.ajuda-pagina {
+    background-color: rgb(49, 100, 7);
+    width: 101%;
+    margin: 0 auto;
+    border-top: 10px solid  rgb(0, 0, 0);
+    border-bottom: 10px solid  rgb(8, 8, 8);
+    
+    
+}
+
+/*.imagem-principal img{
+    
+   
+    height: 200px;
+        
+    width: 101%;
+
+    margin: 0 auto;
+
+    
+}*/
+
+.textoAjuda h1{
+
+    color: rgb(41,65,22);
+    font-size: 50pt;
+    text-align: center;
+    margin-top: 10%;
+    text-shadow: #ccd8c9 5px 5px 2px ;
+
+}
+
+.textoAjuda h2{
+
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 25pt;
+    color: rgb(41,65,22);
+    
+    
+
+}
+
+.textoAjuda img{
+
+    margin-top: 8%;
+    width: 40%;
+    margin-left: 30%;
+
+}
+
+.textoAjuda p{
+
+    margin-left: 5%;
+    font-size:15pt;
+    margin-top: 10%;
+    color: rgb(18, 59, 5);
+}
+
+.textoResto p{
+
+    margin-left: 5%;
+    font-size:15pt;
+   
+    color: rgb(18, 59, 5);
+
+
+}
+
+/*.header42 {
+    background-color: rgb(49, 100, 7);
+    width:101%;
+    height:200px;
+    margin-top: 15%;
+}
+
+.redes ul li {
+
+    display: inline-block;
+    
+    list-style: none;
+    
+    
+}
+
+.redes img {
+
+    height:  70px;
+    margin-top: 30%;
+    
+    
+   
+}
+
+
+
+.redes ul li a{
+    width:100%
+}*/
+
+
+
+
+
+
