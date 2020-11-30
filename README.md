@@ -1,4 +1,4 @@
-1- utilizamos o form para fazer o formulário de cadastro.
+1- Adicionamos uma página com o documento chamado formulario.html e utilizamos o form para fazer o formulário de cadastro.
 
 Ele contém 7 tipos de input como : url, text, email, date, checkbox, tel, password.
 
