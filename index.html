@@ -12,19 +12,19 @@
 
 
       <link rel="shortcut icon" href="img/images/favicon.png" /> 
-      <link rel="stylesheet" type="text/css" href="css/main.css">
+      <link rel = "stylesheet" type= "text/css" href="./css/main.css">
+      <script src="js/main.js" type= "text/javascript"></script>
 
-      
-
-      
-
-      
-
-      
-
+   
    
 
       <title>Nutrici-on</title>
+
+
+
+     
+
+
 
   </head>
 
@@ -72,7 +72,7 @@
             </li>
 
             <li>
-                <a href="tabela.html">Tabela nutricional</a>
+                <a href="tabela.html">Tabela</a>
             </li>
 
             <li>
@@ -146,7 +146,15 @@
 
 
              <div class="imagem2">
-                 <img src="img/images/meioh1.jpg">
+                 <!--<img src="img/images/meioh1.jpg" >-->
+
+                 <img id="celke" onclick="mudar()" src="img/images/meioh1.jpg">
+
+                 
+                 
+                 
+
+                 
                 
            </div>
 
@@ -154,7 +162,7 @@
                 
                 <h2>O que é nutrição na prática?</h2>
 
-                <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dessa maneira a ciência nutricional, tal qual o <strong>Curso de Nutrição </strong> abrange as reações químicas que ocorrem no organismo e as transformações celulares durante as fases. É o caso do Catabolismo e Anabolismo, dois processos relacionados ao metabolismo: um que quebra moléculas, e outro que cria novas regeneradas, respectivamente. Com isso, podemos dizer então que a Nutrição examina minuciosamente todos os detalhes relevantes para entender como o corpo responde aos alimentos ingeridos.</p>
+                <p id="msg1" style="color: rgb(4, 8, 0)" onMouseOver="muda('msg1')"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dessa maneira a ciência nutricional, tal qual o <strong>Curso de Nutrição </strong> abrange as reações químicas que ocorrem no organismo e as transformações celulares durante as fases. É o caso do Catabolismo e Anabolismo, dois processos relacionados ao metabolismo: um que quebra moléculas, e outro que cria novas regeneradas, respectivamente. Com isso, podemos dizer então que a Nutrição examina minuciosamente todos os detalhes relevantes para entender como o corpo responde aos alimentos ingeridos.</p>
 
             </div>
 
@@ -167,10 +175,11 @@
 
 <div class="comeco">
 
-    <button onclick class="botao1"><a href="index.html">Começo</a>
+    <button class="botao1" onclick="funcao1()" ><a href="index.html">Começo</a>
 
                     
     </button>
+    
 
   
 
@@ -205,10 +214,8 @@
 
 
       
-
-  </body>
+</body>
+  
 
   
   </html>
-
-  
