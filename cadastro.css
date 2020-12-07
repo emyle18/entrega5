@@ -317,6 +317,24 @@ button{
         width: 80%;
         margin-left: 10%;
     }
+
+    .menu ul li{
+
+      
+        position: relative;
+        width: 25%;
+        height: 30px;
+    }
+
+    .menu ul li a{
+        border: 2px solid rgb(1, 8, 0);
+        border-radius: 10px 10px;
+        
+        display:relative;
+        background: rgb(0, 24, 2);
+        width:20%;
+        color: #ffffff
+    }
 }
 
 
@@ -325,24 +343,24 @@ button{
     .finalCadastro{
         height: 50;
         margin-top: 35%;
+        
 
 
     }
 
     .menu ul li{
         display: inline-block;
-        margin-left: 12px;
+        margin-left: 3%;
     }
 
+   
+
 
 
 
 }
 
-@media(max-width: 800px) and (max-height:1280px){
 
-    
-}
 
 
 

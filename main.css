@@ -162,7 +162,7 @@ padding-left: 5pt;
     font-size: 30pt;
     margin-left: 5%;
     margin-right: 20;
-    color: rgb(41,65,22);
+   color: rgb(41,65,22);
     margin-top: 80;
     
 
@@ -252,6 +252,15 @@ padding-left: 5pt;
     .header-3{
         height: 280px;
     }
+
+    .menu ul li{
+
+        position: relative;
+        width: 25%;
+        height: 30px;
+    }
+
+   
 }
 
 @media(max-width: 800px) and (max-height:1280px){
@@ -260,13 +269,24 @@ padding-left: 5pt;
 
     .menu ul li{
         display: inline-block;
-        margin-left: 12px;
+        margin-left: 3%;
     }
 
 
 
 
 }
+
+.fimGeral{
+    height: 50;
+    margin-top: 35%;
+
+
+}
+
+
+
+
 
 
  

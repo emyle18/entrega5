@@ -208,6 +208,45 @@ main{
         height: 280px;
     }
 
+    .menuGeral ul li a{
+
+        border: 2px solid rgb(1, 8, 0);
+        border-radius: 10px 10px;
+        
+        display:relative;
+        background: rgb(0, 24, 2);
+        width:20%;
+        color: #ffffff
+
+      
+        
+    }
+
+    .menuGeral ul li{
+
+        position: relative;
+        width: 25%;
+        height: 30px;
+    }
+
+    .titulo2 p{
+
+        text-align: justify;
+
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 20%;
+    }
+
+    .textoAjuda h1{
+
+        font-size: 30pt;
+    }
+
+
+
+
+
    
 
 }
@@ -223,7 +262,10 @@ main{
 
     .menuGeral ul li{
         display: inline-block;
-        margin-left: 12px;
+        margin-left: 3%;
+        
+        
+        
     }
 
 

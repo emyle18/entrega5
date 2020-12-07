@@ -92,6 +92,19 @@ textarea{
 
     .titulo{
         font-size:20pt;
+        margin-left: 25%;
+    }
+
+    .menuGeral ul li{
+
+        position: relative;
+        width: 25%;
+    }
+
+    fieldset{
+
+        width: 85%;
+        margin-left: 2%;
     }
 
    
